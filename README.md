@@ -61,11 +61,3 @@ A full-stack note-taking app built with Next.js, AWS Amplify Gen 2, MUI, and Typ
 - [Material-UI (MUI)](https://mui.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Customization
-
-- **Amplify Data Model:** See `/amplify/data/resource.ts` to adjust user or note schema.
-- **Storage/CDN:** Profile pictures are stored in S3 and served via Presigned URLs. See `/amplify/storage/resource.ts` and `/amplify/backend.ts`.
-
-## License
-
-MIT
